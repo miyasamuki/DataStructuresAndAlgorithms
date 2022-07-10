@@ -5,9 +5,23 @@
       <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DataStructuresAndAlgorithms.iml" filepath="$PROJECT_DIR$/.idea/DataStructuresAndAlgorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedHashMap/LinkedHashMap.iml" filepath="$PROJECT_DIR$/LinkedHashMap/LinkedHashMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Map-映射/Map-映射.iml" filepath="$PROJECT_DIR$/Map-映射/Map-映射.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queue/Queue.iml" filepath="$PROJECT_DIR$/Queue/Queue.iml" />
       <module fileurl="file://$PROJECT_DIR$/ReverseList/ReverseList.iml" filepath="$PROJECT_DIR$/ReverseList/ReverseList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Set/Set.iml" filepath="$PROJECT_DIR$/Set/Set.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tree/Tree.iml" filepath="$PROJECT_DIR$/Tree/Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashtable/hashtable.iml" filepath="$PROJECT_DIR$/hashtable/hashtable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trie/trie.iml" filepath="$PROJECT_DIR$/trie/trie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/二叉树的非递归前序遍历/二叉树的非递归前序遍历.iml" filepath="$PROJECT_DIR$/二叉树的非递归前序遍历/二叉树的非递归前序遍历.iml" />
+      <module fileurl="file://$PROJECT_DIR$/优先队列/优先队列.iml" filepath="$PROJECT_DIR$/优先队列/优先队列.iml" />
+      <module fileurl="file://$PROJECT_DIR$/哈希表-范例/哈希表-范例.iml" filepath="$PROJECT_DIR$/哈希表-范例/哈希表-范例.iml" />
+      <module fileurl="file://$PROJECT_DIR$/图/图.iml" filepath="$PROJECT_DIR$/图/图.iml" />
+      <module fileurl="file://$PROJECT_DIR$/堆/堆.iml" filepath="$PROJECT_DIR$/堆/堆.iml" />
+      <module fileurl="file://$PROJECT_DIR$/并查集/并查集.iml" filepath="$PROJECT_DIR$/并查集/并查集.iml" />
+      <module fileurl="file://$PROJECT_DIR$/排序/排序.iml" filepath="$PROJECT_DIR$/排序/排序.iml" />
     </modules>
   </component>
 </project>

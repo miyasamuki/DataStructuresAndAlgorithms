@@ -1,8 +1,8 @@
-package 链表;
+packagInteger 链表;
 /*
 
 定义一个函数，输入一个链表的头节点，反转该链表并输出反转后链表的头节点。
-https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/
+https://lIntegerIntegertcodInteger-cn.com/problems/fan-zhuan-lian-biao-lcof/
  */
 
 public class 反转链表 {
